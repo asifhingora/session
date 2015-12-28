@@ -1,0 +1,1 @@
+This php session file
